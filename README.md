@@ -1,16 +1,18 @@
 # HOLA SOY IRINA 👋🏻
-Full Stack Developer 
+Full Stack Developer <img src="[URL-DEL-GIF](https://emoji.gg/emoji/47867-littlebow )" width="100">
 
 # Tecnologies 👀
-Javascript | Nodejs | React | Redux | HTML5 | CSS3 | PostgreSQL | Bootstrap | Git | Github | Railway | Scrum
+Javascript | Java | Python | Nodejs | React | Redux | HTML5 | CSS3 | PostgreSQL | Bootstrap | Git | Github | Railway | Scrum
 
 # ABOUT ME! ❣️
-Soy una desarrolladora Full Stack con preferencia en el Front. Gracias al bootcamp de Soy Henry pude producir habilidades blandas trabajando en equipo como habilidades técinas que adquirí durante el curso. Soy una persona que siempre esta en busca de aprender nuevas tecnologias a la vez de empezar nuevos proyectos.
-
-SOFT SKILLS:
-Durante el bootcamp, aprendí y fortalecí mis habilidades blandas. Soy una persona comunicativa, lo que me permite escuchar y transmitir información efectivamente para alcanzar los objetivos deseados. También, soy colaborativa en el trabajo en equipo y en la realización de tareas. Poseo una buena gestión del tiempo para organizar las tareas en un plazo determinado. Además, me considero una persona abierta a los cambios y perspectivas diferentes para crear nuevas ideas.
+Estudiante de Informática | Aspirante a desarrollador de software 💻
+Apasionada por la programación, la tecnología y el aprendizaje continuo.
+Actualmente explorando Python, análisis de datos y desarrollo de software.
 
 # Contáctame 🫶🏻
 Gmail: irinairinadominguez@gmail.com
 Linkedin: https://www.linkedin.com/in/irina-dominguez-5b63a5250/
-Cel: +54 9 2342 482716
+
+<p align="center">
+ <img width="1445" height="1445" alt="image" src="https://github.com/user-attachments/assets/d465690d-4781-4adc-9f2f-8fdd6913c4a0" />
+</p>
