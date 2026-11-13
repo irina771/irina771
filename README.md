@@ -1,7 +1,12 @@
-# HOLA SOY IRINA 👋🏻
-Full Stack Developer <img src="[URL-DEL-GIF](https://emoji.gg/emoji/47867-littlebow )" width="100">
 
-# Tecnologies 👀
+<img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/e84ca79d-8259-4148-8253-08d1543523aa" /> 
+
+# HOLA SOY IRINA 
+Full Stack Developer 
+
+# Tecnologies  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0eb71ce6-b855-4d41-8540-cbab2db98ab7" />
+
+
 Javascript | Java | Python | Nodejs | React | Redux | HTML5 | CSS3 | PostgreSQL | Bootstrap | Git | Github | Railway | Scrum
 
 # ABOUT ME! ❣️
@@ -13,6 +18,4 @@ Actualmente explorando Python, análisis de datos y desarrollo de software.
 Gmail: irinairinadominguez@gmail.com
 Linkedin: https://www.linkedin.com/in/irina-dominguez-5b63a5250/
 
-<p align="center">
- <img width="1445" height="1445" alt="image" src="https://github.com/user-attachments/assets/d465690d-4781-4adc-9f2f-8fdd6913c4a0" />
-</p>
+<img width="234" height="156" alt="image" src="https://github.com/user-attachments/assets/2deee4fd-abdb-4154-91b4-aad5454ec861" />
